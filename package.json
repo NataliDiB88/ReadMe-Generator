@@ -1,15 +1,16 @@
 {
-  "name": "package.json",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "package.json",
+  "description": "Practice creating a ReadMe through node",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "^C"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "keywords": [],
   "dependencies": {
-    "inquirer": "^12.0.1"
+    "inquirer": "^9.2.20"
   }
 }
